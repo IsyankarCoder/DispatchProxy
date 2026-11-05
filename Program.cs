@@ -63,7 +63,7 @@ internal class Program
         public ChatHub(HubClients<IChatClient> clients)=>_clients=clients;
 
         public Task SendMessage(string message)=>
-         _clients.All.Budadegisikmethod(10);
+         _clients.All.VolkiTolkiMethod(message);
     }
 }
 
