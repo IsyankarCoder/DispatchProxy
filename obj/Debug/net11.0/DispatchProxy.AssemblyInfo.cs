@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DispatchProxy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8c99ecf6a7964d4ede5b0300d5f067601cfb3a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("DispatchProxy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DispatchProxy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

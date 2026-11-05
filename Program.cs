@@ -13,7 +13,7 @@ internal class Program
 
 
         var hub =new ChatHub(new HubClients<IChatClient>(allClients));
-        await hub.SendMessage("Volkan Tolkan");
+        await hub.SendMessage(args[0]);
         
     }
 
