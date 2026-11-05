@@ -1,0 +1,16 @@
+C:\Repo\NETCORE\Konsol\DispatchProxy\bin\Debug\net11.0\DispatchProxy.exe
+C:\Repo\NETCORE\Konsol\DispatchProxy\bin\Debug\net11.0\DispatchProxy.deps.json
+C:\Repo\NETCORE\Konsol\DispatchProxy\bin\Debug\net11.0\DispatchProxy.runtimeconfig.json
+C:\Repo\NETCORE\Konsol\DispatchProxy\bin\Debug\net11.0\DispatchProxy.runtimeconfig.dev.json
+C:\Repo\NETCORE\Konsol\DispatchProxy\bin\Debug\net11.0\DispatchProxy.dll
+C:\Repo\NETCORE\Konsol\DispatchProxy\bin\Debug\net11.0\DispatchProxy.pdb
+C:\Repo\NETCORE\Konsol\DispatchProxy\obj\Debug\net11.0\DispatchProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\NETCORE\Konsol\DispatchProxy\obj\Debug\net11.0\DispatchProxy.AssemblyInfoInputs.cache
+C:\Repo\NETCORE\Konsol\DispatchProxy\obj\Debug\net11.0\DispatchProxy.AssemblyInfo.cs
+C:\Repo\NETCORE\Konsol\DispatchProxy\obj\Debug\net11.0\DispatchProxy.csproj.CoreCompileInputs.cache
+C:\Repo\NETCORE\Konsol\DispatchProxy\obj\Debug\net11.0\DispatchProxy.dll
+C:\Repo\NETCORE\Konsol\DispatchProxy\obj\Debug\net11.0\refint\DispatchProxy.dll
+C:\Repo\NETCORE\Konsol\DispatchProxy\obj\Debug\net11.0\DispatchProxy.pdb
+C:\Repo\NETCORE\Konsol\DispatchProxy\obj\Debug\net11.0\DispatchProxy.genruntimeconfig.cache
+C:\Repo\NETCORE\Konsol\DispatchProxy\obj\Debug\net11.0\ref\DispatchProxy.dll
+C:\Repo\NETCORE\Konsol\DispatchProxy\obj\Debug\net11.0\Dispatch.89CB7B5E.Up2Date
